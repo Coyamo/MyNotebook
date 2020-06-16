@@ -1,0 +1,2 @@
+theme=com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+dailyTip=true
